@@ -1,0 +1,30 @@
+c:\users\section1\source\repos\UcakSavarV2\UcakSavarV2\bin\Debug\UcakSavarV2.exe.config
+c:\users\section1\source\repos\UcakSavarV2\UcakSavarV2\bin\Debug\UcakSavarV2.exe
+c:\users\section1\source\repos\UcakSavarV2\UcakSavarV2\bin\Debug\UcakSavarV2.pdb
+c:\users\section1\source\repos\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.csprojResolveAssemblyReference.cache
+c:\users\section1\source\repos\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.Properties.Resources.resources
+c:\users\section1\source\repos\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.csproj.GenerateResource.cache
+c:\users\section1\source\repos\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.csproj.CoreCompileInputs.cache
+c:\users\section1\source\repos\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.exe
+c:\users\section1\source\repos\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.pdb
+c:\users\section1\source\repos\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.Form1.resources
+C:\Users\Can\Downloads\Uğur Aydın\Form Dersleri\UcakSavarV2\UcakSavarV2\bin\Debug\UcakSavarV2.exe.config
+C:\Users\Can\Downloads\Uğur Aydın\Form Dersleri\UcakSavarV2\UcakSavarV2\bin\Debug\UcakSavarV2.exe
+C:\Users\Can\Downloads\Uğur Aydın\Form Dersleri\UcakSavarV2\UcakSavarV2\bin\Debug\UcakSavarV2.pdb
+C:\Users\Can\Downloads\Uğur Aydın\Form Dersleri\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.csprojAssemblyReference.cache
+C:\Users\Can\Downloads\Uğur Aydın\Form Dersleri\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.Form1.resources
+C:\Users\Can\Downloads\Uğur Aydın\Form Dersleri\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.Properties.Resources.resources
+C:\Users\Can\Downloads\Uğur Aydın\Form Dersleri\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.csproj.GenerateResource.cache
+C:\Users\Can\Downloads\Uğur Aydın\Form Dersleri\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.csproj.CoreCompileInputs.cache
+C:\Users\Can\Downloads\Uğur Aydın\Form Dersleri\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.exe
+C:\Users\Can\Downloads\Uğur Aydın\Form Dersleri\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.pdb
+C:\Users\-\Downloads\UcakSavarV2\UcakSavarV2\UcakSavarV2\bin\Debug\UcakSavarV2.exe.config
+C:\Users\-\Downloads\UcakSavarV2\UcakSavarV2\UcakSavarV2\bin\Debug\UcakSavarV2.exe
+C:\Users\-\Downloads\UcakSavarV2\UcakSavarV2\UcakSavarV2\bin\Debug\UcakSavarV2.pdb
+C:\Users\-\Downloads\UcakSavarV2\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.csproj.AssemblyReference.cache
+C:\Users\-\Downloads\UcakSavarV2\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.Form1.resources
+C:\Users\-\Downloads\UcakSavarV2\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.Properties.Resources.resources
+C:\Users\-\Downloads\UcakSavarV2\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.csproj.GenerateResource.cache
+C:\Users\-\Downloads\UcakSavarV2\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.csproj.CoreCompileInputs.cache
+C:\Users\-\Downloads\UcakSavarV2\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.exe
+C:\Users\-\Downloads\UcakSavarV2\UcakSavarV2\UcakSavarV2\obj\Debug\UcakSavarV2.pdb

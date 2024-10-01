@@ -1,0 +1,10 @@
+C:\EmekWebRepo\C#\Proje10-ucakSavar\UcakSavarOyunu\bin\Debug\UcakSavarOyunu.exe.config
+C:\EmekWebRepo\C#\Proje10-ucakSavar\UcakSavarOyunu\bin\Debug\UcakSavarOyunu.exe
+C:\EmekWebRepo\C#\Proje10-ucakSavar\UcakSavarOyunu\bin\Debug\UcakSavarOyunu.pdb
+C:\EmekWebRepo\C#\Proje10-ucakSavar\UcakSavarOyunu\obj\Debug\UcakSavarOyunu.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\Proje10-ucakSavar\UcakSavarOyunu\obj\Debug\UcakSavarOyunu.Form1.resources
+C:\EmekWebRepo\C#\Proje10-ucakSavar\UcakSavarOyunu\obj\Debug\UcakSavarOyunu.Properties.Resources.resources
+C:\EmekWebRepo\C#\Proje10-ucakSavar\UcakSavarOyunu\obj\Debug\UcakSavarOyunu.csproj.GenerateResource.cache
+C:\EmekWebRepo\C#\Proje10-ucakSavar\UcakSavarOyunu\obj\Debug\UcakSavarOyunu.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\Proje10-ucakSavar\UcakSavarOyunu\obj\Debug\UcakSavarOyunu.exe
+C:\EmekWebRepo\C#\Proje10-ucakSavar\UcakSavarOyunu\obj\Debug\UcakSavarOyunu.pdb
